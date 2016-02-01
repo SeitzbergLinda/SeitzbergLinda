@@ -3,7 +3,7 @@
 function preload() {
 
     game.load.image('sky', 'assets/sky.png');
-    game.load.image('ground', 'assets/ground.png');
+    game.load.image('ground', 'platform.png');
     game.load.image('star', 'assets/carrot');
     game.load.image('mushroom', 'house.png');
 	game.load.image('moln', 'moln.png');
